@@ -2,7 +2,7 @@
   "name": "posinews",
   "displayName": "Posinews",
   "version": "0.0.1",
-  "description": "A browser extension that allows the user to hide negative news",
+  "description": "An extension that allows users to hide negative news from LinkedIn",
   "author": "Matt Clagett",
   "packageManager": "pnpm@7.30.5",
   "scripts": {
