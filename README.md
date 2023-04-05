@@ -1,4 +1,18 @@
-This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
+This is a Chrome extension that allows users to choose which news stories to hide from LinkedIn top news. When using this extension, a button will appear next to each story, which when clicked, will remove the story. 
+
+TO DO:
+- Add hidden story titles to storage, which will then hide the stories in future sessions
+- Add key words to phrase ban list, which will be used to hide stories in future sessions
+
+Built with:
+- Plasmo
+- Typescript
+- React
+
+
+
+Plasmo development and build instructions:
+
 
 ## Getting Started
 
