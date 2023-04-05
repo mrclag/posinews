@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/mrclag/posinews">
-    <img src="asses/icon.png" alt="Logo" width="80" height="80">
+    <img src="assets/icon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Posinews</h3>
